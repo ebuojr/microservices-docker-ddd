@@ -29,5 +29,10 @@ C:\Users\Dell\Documents\UCL Vejle\4. Semester programmering\microservices-ddd-do
 C:\Users\Dell\Documents\UCL Vejle\4. Semester programmering\microservices-ddd-docker-demo\microservices-docker-ddd\BasketAPI\Basket.API\obj\Debug\netcoreapp3.1\Basket.API.pdb
 C:\Users\Dell\Documents\UCL Vejle\4. Semester programmering\microservices-ddd-docker-demo\microservices-docker-ddd\BasketAPI\Basket.API\obj\Debug\netcoreapp3.1\Basket.API.genruntimeconfig.cache
 C:\Users\Dell\Documents\UCL Vejle\4. Semester programmering\microservices-ddd-docker-demo\microservices-docker-ddd\BasketAPI\Basket.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Dell\Documents\UCL Vejle\4. Semester programmering\microservices-ddd-docker-demo\microservices-docker-ddd\BasketAPI\Basket.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Dell\Documents\UCL Vejle\4. Semester programmering\microservices-ddd-docker-demo\microservices-docker-ddd\BasketAPI\Basket.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Dell\Documents\UCL Vejle\4. Semester programmering\microservices-ddd-docker-demo\microservices-docker-ddd\BasketAPI\Basket.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Dell\Documents\UCL Vejle\4. Semester programmering\microservices-ddd-docker-demo\microservices-docker-ddd\BasketAPI\Basket.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\Dell\Documents\UCL Vejle\4. Semester programmering\microservices-ddd-docker-demo\microservices-docker-ddd\BasketAPI\Basket.API\obj\Debug\netcoreapp3.1\Basket.API.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\UCL Vejle\4. Semester programmering\microservices-ddd-docker-demo\microservices-docker-ddd\BasketAPI\Basket.API\obj\Debug\netcoreapp3.1\Basket.API.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Dell\Documents\UCL Vejle\4. Semester programmering\microservices-ddd-docker-demo\microservices-docker-ddd\BasketAPI\Basket.API\obj\Debug\netcoreapp3.1\Basket.API.MvcApplicationPartsAssemblyInfo.cache
