@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "E7gSWDRl0bPBD27kzPLig5Q2idZmirxR1hGsQWK7rMrCtUaQDepfarjuaEUB7c5P0QkLVWzd8nPrZU6++WxJLg==",
+  "dgSpecHash": "EkFN9MJDGn1HjtZrBroEB+BiOFxINFYhAgmgcIo/tY3N9bsJihPHDa5VcKmCt3WAfqhjNk5UKE14Yf8GGNiPvA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dell\\Documents\\UCL Vejle\\4. Semester programmering\\microservices-ddd-docker-demo\\microserviceddddocker\\src\\Catalog\\Catalog.API\\Catalog.API.csproj",
+  "projectFilePath": "C:\\Users\\Dell\\Documents\\UCL Vejle\\4. Semester programmering\\microservices-ddd-docker-demo\\microservices-docker-ddd\\microserviceddddocker\\src\\Catalog\\Catalog.API\\Catalog.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dell\\.nuget\\packages\\dnsclient\\1.3.1\\dnsclient.1.3.1.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",

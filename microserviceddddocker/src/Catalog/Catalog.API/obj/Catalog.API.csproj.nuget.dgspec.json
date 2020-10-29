@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dell\\Documents\\UCL Vejle\\4. Semester programmering\\microservices-ddd-docker-demo\\microserviceddddocker\\src\\Catalog\\Catalog.API\\Catalog.API.csproj": {}
+    "C:\\Users\\Dell\\Documents\\UCL Vejle\\4. Semester programmering\\microservices-ddd-docker-demo\\microservices-docker-ddd\\microserviceddddocker\\src\\Catalog\\Catalog.API\\Catalog.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dell\\Documents\\UCL Vejle\\4. Semester programmering\\microservices-ddd-docker-demo\\microserviceddddocker\\src\\Catalog\\Catalog.API\\Catalog.API.csproj": {
+    "C:\\Users\\Dell\\Documents\\UCL Vejle\\4. Semester programmering\\microservices-ddd-docker-demo\\microservices-docker-ddd\\microserviceddddocker\\src\\Catalog\\Catalog.API\\Catalog.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dell\\Documents\\UCL Vejle\\4. Semester programmering\\microservices-ddd-docker-demo\\microserviceddddocker\\src\\Catalog\\Catalog.API\\Catalog.API.csproj",
+        "projectUniqueName": "C:\\Users\\Dell\\Documents\\UCL Vejle\\4. Semester programmering\\microservices-ddd-docker-demo\\microservices-docker-ddd\\microserviceddddocker\\src\\Catalog\\Catalog.API\\Catalog.API.csproj",
         "projectName": "Catalog.API",
-        "projectPath": "C:\\Users\\Dell\\Documents\\UCL Vejle\\4. Semester programmering\\microservices-ddd-docker-demo\\microserviceddddocker\\src\\Catalog\\Catalog.API\\Catalog.API.csproj",
+        "projectPath": "C:\\Users\\Dell\\Documents\\UCL Vejle\\4. Semester programmering\\microservices-ddd-docker-demo\\microservices-docker-ddd\\microserviceddddocker\\src\\Catalog\\Catalog.API\\Catalog.API.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dell\\Documents\\UCL Vejle\\4. Semester programmering\\microservices-ddd-docker-demo\\microserviceddddocker\\src\\Catalog\\Catalog.API\\obj\\",
+        "outputPath": "C:\\Users\\Dell\\Documents\\UCL Vejle\\4. Semester programmering\\microservices-ddd-docker-demo\\microservices-docker-ddd\\microserviceddddocker\\src\\Catalog\\Catalog.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",

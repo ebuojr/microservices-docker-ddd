@@ -1,0 +1,1 @@
+C:\Users\Dell\Documents\UCL Vejle\4. Semester programmering\microservices-ddd-docker-demo\microservices-docker-ddd\microserviceddddocker\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
