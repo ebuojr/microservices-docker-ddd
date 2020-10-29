@@ -1,7 +1,7 @@
 services:
   catalog.api:
     build:
-      context: C:\Users\Dell\Documents\UCL Vejle\4. Semester programmering\microservices-ddd-docker-demo\microserviceddddocker
+      context: C:\Users\Dell\Documents\UCL Vejle\4. Semester programmering\microservices-ddd-docker-demo\microservices-docker-ddd\microserviceddddocker
       dockerfile: src/Catalog/Catalog.API/Dockerfile
     container_name: catalogapi
     depends_on:
